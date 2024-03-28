@@ -18,4 +18,4 @@ public class MatakuliahLatihanMain {
         String formattedIpk = String.format("%.2f", ipk);
         System.out.println("IPK: " + formattedIpk);
     }
-}
+} 
